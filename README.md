@@ -23,11 +23,11 @@ Endorsement: Mathematics
 Minors: Physics, Education  
 
 ________________________________________
-### <b>TEACHING EXPERIENCE</b>
+### <b>WORK EXPERIENCE</b>
 
-Co-Teacher
-IES Profesór Máximo Trueba, Boadilla del Monte, Madrid, Spain	Since August 2015 
-Co-taught in secondary bilingual school with a Spanish teacher as the native English teacher in classes including Chemistry, Biology, Government/Politics, Physical Education, and English Language/Literature to students aged 12 - 18. Developed lesson plans that teach content as well English vocabulary in each subject. Lead the Global Classrooms program (comparable to Model United Nations program in the U.S.) providing small group instruction for several months to prepare for various competitions against other secondary schools in Spain. 
+<b>Co-Teacher</b> (August 2015 - August 2016)
+*IES Profesór Máximo Trueba*, Boadilla del Monte, Madrid, Spain  
+     Co-taught in secondary bilingual school with a Spanish teacher as the native English teacher in classes including Chemistry, Biology, Government/Politics, Physical Education, and English Language/Literature to students aged 12 - 18. Developed lesson plans that teach content as well English vocabulary in each subject. Lead the Global Classrooms program (comparable to Model United Nations program in the U.S.) providing small group instruction for several months to prepare for various competitions against other secondary schools in Spain. 
 
 
 Camp Counselor
