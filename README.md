@@ -10,36 +10,20 @@ To join the ADA Developers Academy Cohort of 2017-2018
 ___
 ### <b>EDUCATION & CREDENTIALS</b>  
 
-<b>Masters in Teaching – Secondary Education</b> (2011 – 2012)
-<b>Washington State Teacher Certification</b> 
+<b>Masters in Teaching – Secondary Education</b> (2011 – 2012)  
+<b>Washington State Teacher Certification</b>  
 *University of Washington* – Seattle, WA  
 Endorsement: Mathematics 
 
-TESOL/TESL/TEFL - Teaching English as a Foreign Language Certification (2011)
-Oxford Seminars – Seattle, WA 
+<b>TESOL/TESL/TEFL - Teaching English as a Foreign Language Certification</b> (2011)  
+*Oxford Seminars* – Seattle, WA  
 
-Bachelor of Arts in Mathematics (2006 – 2010)
-University of Washington – Seattle, WA
-Minors: Physics, Education
+<b>Bachelor of Arts in Mathematics</b> (2006 – 2010)  
+*University of Washington* – Seattle, WA  
+Minors: Physics, Education  
 
 ________________________________________
-RELEVANT SKILLS AND EXPERIENCE
-
-Languages:
-Spectrum of Students:
-
-
-Pedagogical Techniques:
-
-
-Technology:
-Pedagogical Workshops:	English (fluent/native), Spanish (intermediate)
-English Language Learners (ELL), Special Education (SPED), Advanced Placement Program (APP) students, urban, rural, low-income, mixed-ability, culturally and religiously diverse, all grade levels
-Small-group instruction, classroom management, complex and differential instruction through both inquiry activities and guided note-taking, student-access class webpage
-SmartBoard, Microsoft Word, Excel, TI Calculators, PowerSchools
-Henri Picciotto’s Visual Algebra and No Limits! Workshops (August 2013) UW’s Designing Effective Groupwork in Mathematics (June 2013)
-
-________________________________________TEACHING EXPERIENCE
+### <b>TEACHING EXPERIENCE</b>
 
 Co-Teacher
 IES Profesór Máximo Trueba, Boadilla del Monte, Madrid, Spain	Since August 2015 
