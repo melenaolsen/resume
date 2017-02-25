@@ -53,7 +53,7 @@ ________________________________________
 *Máximo Nivel and Orfanato del Girasol*, Urubamba, Cusco, Peru	
 > Spent nearly 3 months teaching English and other subjects at a rural public elementary school. Also volunteered at an orphanage helping with homework after school. 
 
-<b>AVID Academic Coach</b> (December 2009 – June 2010)
+<b>AVID Academic Coach</b> (December 2009 – June 2010)  
 *Bellevue School District*, Bellevue, WA, USA	
 > Assisted in classrooms to help students with study-skills and to motivate them to go to college. Used inquiry-based tactics to probe a deeper understanding of subjects such as math, science, history, and language arts.
 
@@ -61,7 +61,7 @@ ________________________________________
 *Horn of Africa Services*, Seattle, WA, USA	 
 > Volunteered at this youth organization of refugees and students of East-African descent. Provided instruction in math, science, Spanish, test preparation, and essay writing.
 
-<b> Assistant Office Manager </b> (Summers 2002 - 2009) 
+<b> Assistant Office Manager </b> (Summers 2002 - 2009)  
 *Advance Resorts of America*, La Conner, WA, USA	
 > Assisted billing, customer service, and basic online marketing. Developed an early version of the companies website by teaching myself HTML. Also developed the companies [logos](http://www.araresorts.com/) and making campground maps for [Paradise Cove Resort](http://www.pcrvresort.com/site-map) and [Willow Bay Resort](http://www.wbrvresort.com/site-map) by teaching myself on a free image editing software.
 
