@@ -25,14 +25,13 @@ Minors: Physics, Education
 ________________________________________
 ### <b>WORK EXPERIENCE</b>
 
-<b>Co-Teacher</b> (August 2015 - August 2016)
+<b>Co-Teacher</b> (August 2015 - August 2016)  
 *IES Profesór Máximo Trueba*, Boadilla del Monte, Madrid, Spain  
-     Co-taught in secondary bilingual school with a Spanish teacher as the native English teacher in classes including Chemistry, Biology, Government/Politics, Physical Education, and English Language/Literature to students aged 12 - 18. Developed lesson plans that teach content as well English vocabulary in each subject. Lead the Global Classrooms program (comparable to Model United Nations program in the U.S.) providing small group instruction for several months to prepare for various competitions against other secondary schools in Spain. 
+> Co-taught in secondary bilingual school with a Spanish teacher as the native English teacher in classes including Chemistry, Biology, Government/Politics, Physical Education, and English Language/Literature to students aged 12 - 18. Developed lesson plans that teach content as well English vocabulary in each subject. 
 
-
-Camp Counselor
-Destination Science, Greater Seattle Area, WA, USA	July 2015 – August 2015
-Taught 5 – 11 year olds various science and engineering topics through experimentation with household liquids/items and the building of robots, rockets, and other gadgets. 
+<b>Camp Counselor</b> (July 2015 – August 2015)  
+*Destination Science*, Greater Seattle Area, WA
+>Taught 5 – 11 year olds various science and engineering topics through experimentation with household liquids/items and the building of robots, rockets, and other gadgets. 
 
 High School Teacher
 Garfield High School, Seattle, WA, USA	August 2012 – June 2015
