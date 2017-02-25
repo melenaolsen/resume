@@ -62,6 +62,7 @@ ________________________________________
 > Volunteered at this youth organization of refugees and students of East-African descent. Provided instruction in math, science, Spanish, test preparation, and essay writing.
 
 <b> Assistant Office Manager </b> (Summers 2002 - 2009)  
-*Advance Resorts of America*, La Conner, WA, USA	
-> Assisted billing, customer service, and basic online marketing. Developed an early version of the companies website by teaching myself HTML. Also developed the companies [logos](http://www.araresorts.com/) and making campground maps for [Paradise Cove Resort](http://www.pcrvresort.com/site-map) and [Willow Bay Resort](http://www.wbrvresort.com/site-map) by teaching myself on a free image editing software.
+[*Advance Resorts of America*][ara], La Conner, WA, USA	
+> Assisted billing, customer service, and basic online marketing. Developed an early version of the companies website by teaching myself HTML. Also developed the companies [logos][ara] and making campground maps for [Paradise Cove Resort](http://www.pcrvresort.com/site-map) and [Willow Bay Resort](http://www.wbrvresort.com/site-map) by teaching myself on a free image editing software.
 
+[ara]: http://www.araresorts.com/
