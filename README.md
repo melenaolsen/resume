@@ -4,14 +4,14 @@ MELENA (MOLLY) OLSEN
 7058 25th Ave NE, Seattle, WA 98115
 
 ___
-**OBJECTIVE**
+**OBJECTIVE**  
 To join the ADA Developers Academy Cohort of 2017-2018
 
 ___
 <b>EDUCATION & CREDENTIALS</b>
 
-**Masters in Teaching – Secondary Education** (2011 – 2012)
-**Washington State Teacher Certification** 
+<b>Masters in Teaching – Secondary Education</b> (2011 – 2012)
+<b>Washington State Teacher Certification</b> 
 *University of Washington* – Seattle, WA  
 Endorsement: Mathematics 
 
