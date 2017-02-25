@@ -63,5 +63,5 @@ ________________________________________
 
 <b> Assistant Office Manager </b> (Summers 2002 - 2009) 
 *Advance Resorts of America*, La Conner, WA, USA	
-> Assisted billing, customer service, and basic online marketing. Developed an early version of the companies website by teaching myself HTML. Also developed the companies [logos](http://www.araresorts.com/) and making campground maps ([map 1](http://www.pcrvresort.com/site-map) and [map 2](http://www.wbrvresort.com/site-map))by teaching myself on a free image editing software.
+> Assisted billing, customer service, and basic online marketing. Developed an early version of the companies website by teaching myself HTML. Also developed the companies [logos](http://www.araresorts.com/) and making campground maps for [Paradise Cove Resort](http://www.pcrvresort.com/site-map) and [Willow Bay Resort](http://www.wbrvresort.com/site-map) by teaching myself on a free image editing software.
 
