@@ -31,37 +31,37 @@ ________________________________________
 
 <b>Camp Counselor</b> (July 2015 – August 2015)  
 *Destination Science*, Greater Seattle Area, WA
->Taught 5 – 11 year olds various science and engineering topics through experimentation with household liquids/items and the building of robots, rockets, and other gadgets. 
+> Taught 5 – 11 year olds various science and engineering topics through experimentation with household liquids/items and the building of robots, rockets, and other gadgets. 
 
-High School Teacher
-Garfield High School, Seattle, WA, USA	August 2012 – June 2015
-Math teacher at urban high school for Honors Pre Calculus, Algebra, and Geometry. Taught a diverse group of students in grades 9 – 12 including English Language Learners, Special Education students, and those in the Advanced Placement Program.
+<b>High School Teacher</b> (August 2012 – June 2015)  
+*Garfield High School*, Seattle, WA, USA	
+> Math teacher at urban high school for Honors Pre Calculus, Algebra, and Geometry. Taught a diverse group of students in grades 9 – 12 including English Language Learners, Special Education students, and those in the Advanced Placement Program.
 
-Student Teacher
-Garfield High School, Seattle, WA, USA	August 2011 – March 2012
-Co-taught alongside another teacher in math classes for upperclassmen including Pre Calculus and the Mathematics, Engineering, and Science Achievement (MESA) Program through the University of Washington, which encourages minorities to become interested in STEM careers.
+<b>Student Teacher</b> (August 2011 – March 2012)  
+*Garfield High School*, Seattle, WA, USA	
+> Co-taught alongside another teacher in math classes for upperclassmen including Pre Calculus and the Mathematics, Engineering, and Science Achievement (MESA) Program through the University of Washington, which encourages minorities to become interested in STEM careers.
 
-High School Math Tutor 
-La Conner School District, La Conner, WA, USA	November 2010 – February 2011
-Provided classroom assistance and tutoring outside of school to 9th through 12th graders.  Offered individualized instruction in Algebra, Geometry, Pre-Calculus, Calculus, and Physics.
+<b>High School Math Tutor</b> (November 2010 – February 2011)
+*La Conner School District*, La Conner, WA, USA	
+> Provided classroom assistance and tutoring outside of school to 9th through 12th graders.  Offered individualized instruction in Algebra, Geometry, Pre-Calculus, Calculus, and Physics.
 
-Lead Tutor 
-Advantage Tutoring Center, Mount Vernon, WA, USA	October 2010 – February 2011
-Tutored low-income special-needs elementary and middle school students in math and reading. Worked primarily with English Language Learners.
+<b>Lead Tutor</b> (October 2010 – February 2011)  
+*Advantage Tutoring Center*, Mount Vernon, WA, USA	
+> Tutored low-income special-needs elementary and middle school students in math and reading. Worked primarily with English Language Learners.
 
-Teacher
-Máximo Nivel and Orfanato del Girasol, Urubamba, Cusco, Peru	June 2010 – September 2010
-Spent nearly 3 months teaching English and other subjects at a rural public elementary school. Also volunteered at an orphanage helping with homework after school. 
+<b>Teacher</b> (June 2010 – September 2010)  
+*Máximo Nivel and Orfanato del Girasol*, Urubamba, Cusco, Peru	
+> Spent nearly 3 months teaching English and other subjects at a rural public elementary school. Also volunteered at an orphanage helping with homework after school. 
 
-AVID Academic Coach 
-Bellevue School District, Bellevue, WA, USA	December 2009 – June 2010
-Assisted in classrooms to help students with study-skills and to motivate them to go to college. Used inquiry-based tactics to probe a deeper understanding of subjects such as math, science, history, and language arts.
+<b>AVID Academic Coach</b> (December 2009 – June 2010)
+*Bellevue School District*, Bellevue, WA, USA	
+> Assisted in classrooms to help students with study-skills and to motivate them to go to college. Used inquiry-based tactics to probe a deeper understanding of subjects such as math, science, history, and language arts.
 
-Tutor
-Horn of Africa Services, Seattle, WA, USA	September 2009 – June 2010
-Volunteered at this youth organization of refugees and students of East-African descent. Provided instruction in math, science, Spanish, test preparation, and essay writing.
+<b>Volunteer Tutor</b> (September 2009 – June 2010)  
+*Horn of Africa Services*, Seattle, WA, USA	 
+> Volunteered at this youth organization of refugees and students of East-African descent. Provided instruction in math, science, Spanish, test preparation, and essay writing.
 
-Tutor 
-Tutoring Club, Bellevue, WA, USA	March 2009 – August 2009
-Guided students in small groups through individualized programs based on their personal academic skills.
+<b> Assistant Office Manager </b> (Summers 2002 - 2009) 
+*Advance Resorts of America*, La Conner, WA, USA	
+> Assisted billing, customer service, and basic online marketing. Developed an early version of the companies website by teaching myself HTML. Also developed the companies [logos](http://www.araresorts.com/) and making campground maps ([map 1](http://www.pcrvresort.com/site-map) and [map 2](http://www.wbrvresort.com/site-map))by teaching myself on a free image editing software.
 
