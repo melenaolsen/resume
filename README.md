@@ -11,7 +11,7 @@ ___
 ### <b>EDUCATION & CREDENTIALS</b>  
 
 <b>Masters in Teaching – Secondary Education</b> (2011 – 2012)  
-<b>Washington State Teacher Certification</b>  
+<b>Washington State Teacher Certification</b> (2012)  
 *University of Washington* – Seattle, WA  
 Endorsement: Mathematics 
 
@@ -41,7 +41,7 @@ ________________________________________
 *Garfield High School*, Seattle, WA, USA	
 > Co-taught alongside another teacher in math classes for upperclassmen including Pre Calculus and the Mathematics, Engineering, and Science Achievement (MESA) Program through the University of Washington, which encourages minorities to become interested in STEM careers.
 
-<b>High School Math Tutor</b> (November 2010 – February 2011)
+<b>High School Math Tutor</b> (November 2010 – February 2011)  
 *La Conner School District*, La Conner, WA, USA	
 > Provided classroom assistance and tutoring outside of school to 9th through 12th graders.  Offered individualized instruction in Algebra, Geometry, Pre-Calculus, Calculus, and Physics.
 
