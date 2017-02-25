@@ -1,14 +1,14 @@
-MELENA (MOLLY) OLSEN
-<melenaolsen@gmail.com> 
-+1 360 708 4873 
-7058 25th Ave NE, Seattle, WA 98115
+## MELENA (MOLLY) OLSEN  
+<melenaolsen@gmail.com>  
++1 360 708 4873  
+7058 25th Ave NE, Seattle, WA 98115  
 
 ___
-**OBJECTIVE**  
+### <b>OBJECTIVE</b>  
 To join the ADA Developers Academy Cohort of 2017-2018
 
 ___
-<b>EDUCATION & CREDENTIALS</b>
+### <b>EDUCATION & CREDENTIALS</b>  
 
 <b>Masters in Teaching – Secondary Education</b> (2011 – 2012)
 <b>Washington State Teacher Certification</b> 
