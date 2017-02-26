@@ -4,8 +4,8 @@
 7058 25th Ave NE, Seattle, WA 98115  
 
 ___
-### <b>OBJECTIVE</b>  
-To join the ADA Developers Academy Cohort of 2017-2018
+### <b>SUMMARY OF QUALIFICATIONS</b>  
+Math teacher with 5+ years of experience in the classroom. As a teenager, had taught myself some basic HTML and to use an image editing software to make an early version of the family-business website, the [logos][ara], and [maps][willowmap]. A fast learner and detail oriented, I have the determination to be successful in an intensive software development program.
 
 ___
 ### <b>EDUCATION & CREDENTIALS</b>  
@@ -26,9 +26,11 @@ ________________________________________
 ### <b>WORK EXPERIENCE</b>
 
 <b>Math Teacher</b> (Since August 2016)
+[Excel Public Charter School][excel], Kent, WA
+> Taught 7th Grade math at a STEM focused school, which provides learning experiences through technology and computational thinking to one of the most diverse neighborhoods in the country.
 
 <b>Bilingual Profesor</b> (August 2015 - August 2016)  
-[IES Profesór Máximo Trueba][maximotrueba], Boadilla del Monte, Madrid, Spain  
+[IES Profesor Máximo Trueba][maximotrueba], Boadilla del Monte, Madrid, Spain  
 > Co-taught in secondary bilingual school with a Spanish teacher as the native English teacher in classes including Chemistry, Biology, Government/Politics, Physical Education, and English Language/Literature to students aged 12 - 18. Developed lesson plans that teach content as well English vocabulary in each subject. 
 
 <b>Camp Counselor</b> (July 2015 – August 2015)  
@@ -71,6 +73,7 @@ ________________________________________
 [ara]: http://www.araresorts.com/
 [bellevue]: http://www.bsd405.org/
 [destinationscience]: https://destinationscience.org/
+[excel]: http://excelwa.org/
 [garfield]: http://garfieldhs.seattleschools.org/
 [girasol]: https://www.facebook.com/LegacyHumanitarian/?hc_ref=PAGES_TIMELINE
 [hoas]: http://www.hoas.org/
