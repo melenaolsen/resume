@@ -25,7 +25,7 @@ Minors: Physics, Education
 ________________________________________
 ### <b>WORK EXPERIENCE</b>
 
-<b>Math Teacher</b> (Since August 2016)
+<b>Math Teacher</b> (Since August 2016)  
 [Excel Public Charter School][excel], Kent, WA
 > Taught 7th Grade math at a STEM focused school, which provides learning experiences through technology and computational thinking to one of the most diverse neighborhoods in the country.
 
