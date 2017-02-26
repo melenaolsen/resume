@@ -5,7 +5,7 @@
 
 ___
 ### <b>SUMMARY OF QUALIFICATIONS</b>  
-Math teacher with 5+ years of experience in the classroom. As a teenager, had taught myself some basic HTML and to use an image editing software to make an early version of the family-business website, the [logos][ara], and [maps][willowmap]. A fast learner and detail oriented, I have the determination to be successful in an intensive software development program.
+Math teacher with 5+ years of experience in the classroom particularly in underserved communities. As a teenager, had taught myself some basic HTML and to use an image editing software to make an early version of the family-business website, the [logos][ara], and [maps][willowmap]. A fast learner and detail oriented, I have the determination to be successful in an intensive software development program.
 
 ___
 ### <b>EDUCATION & CREDENTIALS</b>  
